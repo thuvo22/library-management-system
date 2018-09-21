@@ -1,4 +1,4 @@
-# library-management
+# library-management-system
 ## What is it? 
 A library management system for the admin to keep track and update the books. <br />
 
